@@ -1,0 +1,1 @@
+Here we are testing the basics of git after setting up a repo in our local environment from remote via ssh.
