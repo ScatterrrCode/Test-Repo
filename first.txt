@@ -3,3 +3,5 @@ Here we are testing the basics of git after setting up a repo in our local envir
 This is the second line which I am adding from the feture branch in the same file.
 
 Making some changes in this file from the second feature branch.
+
+Making some changes in the first file of the first feature branch from Mac.
